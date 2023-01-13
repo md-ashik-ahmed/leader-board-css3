@@ -137,7 +137,7 @@ hr{
         flex-direction: column;
         align-items: center;
     }
-    .sections-title{
+    .section-title{
         text-align: center;
     }
     .blogs{
@@ -152,8 +152,8 @@ hr{
     .container{
         width: 100%;
     }
-    .sections-title{
-        padding-left: 80px;
+    .section-title{
+        padding-left: 100px;
     }
     .players{
         grid-template-columns: repeat(2, 1fr);
